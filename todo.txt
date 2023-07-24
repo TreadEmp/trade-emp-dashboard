@@ -1,0 +1,43 @@
+Users : 
+    list all the Users with filters
+    view single User
+    disable Users
+
+User roles : 
+    Add user roles
+    add permissions 
+    change permissions
+
+Job Categories  :
+    Add job Categories
+    edit job Categories
+    delete job Categories
+    View single job Category
+    List all the job Categories with filters
+
+Tool Categories :
+    Add Tool Categories
+    edit Tool Categories
+    delete Tool Categories
+    View single Tool Category
+    List all the Tool Categories with filters
+
+Equipments : 
+    Add Equipments
+    edit Equipments
+    delete Equipments
+    View single Equipment
+    List all the Equipments with filters
+
+Bids : 
+    List all the Bids with filters
+
+
+Jobs : 
+    List all the Jobs with filters
+
+Job Requests : 
+    List all the Job Requests with filters
+
+
+
